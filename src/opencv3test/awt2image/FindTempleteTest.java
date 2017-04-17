@@ -12,8 +12,6 @@ import org.opencv.photo.Photo;
 
 /**
  * 根据模板找到该模板在图片中的位置
- * 
- * @company 东航股份信息部物流产品部
  *
  * @description 
  *
